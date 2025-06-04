@@ -1,0 +1,96 @@
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\projet.exe
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\projet.deps.json
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\projet.runtimeconfig.json
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\projet.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\projet.pdb
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\obj\Debug\net8.0\projet.csproj.AssemblyReference.cache
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\obj\Debug\net8.0\projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\obj\Debug\net8.0\projet.AssemblyInfoInputs.cache
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\obj\Debug\net8.0\projet.AssemblyInfo.cs
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\obj\Debug\net8.0\projet.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\obj\Debug\net8.0\projet.csproj.CopyComplete
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\obj\Debug\net8.0\projet.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\obj\Debug\net8.0\refint\projet.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\obj\Debug\net8.0\projet.pdb
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\obj\Debug\net8.0\projet.genruntimeconfig.cache
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\obj\Debug\net8.0\ref\projet.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\ConsoleAppVisuals.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet\bin\Debug\net8.0\YamlDotNet.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\projet.exe
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\projet.deps.json
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\projet.runtimeconfig.json
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\projet.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\projet.pdb
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\ConsoleAppVisuals.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\YamlDotNet.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\obj\Debug\net8.0\projet.csproj.AssemblyReference.cache
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\obj\Debug\net8.0\projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\obj\Debug\net8.0\projet.AssemblyInfoInputs.cache
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\obj\Debug\net8.0\projet.AssemblyInfo.cs
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\obj\Debug\net8.0\projet.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\obj\Debug\net8.0\projet.csproj.CopyComplete
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\obj\Debug\net8.0\projet.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\obj\Debug\net8.0\refint\projet.dll
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\obj\Debug\net8.0\projet.pdb
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\obj\Debug\net8.0\projet.genruntimeconfig.cache
+C:\Users\robin\OneDrive - De Vinci\Documents\A2\s4\modélisation de donnée\projet bdd\obj\Debug\net8.0\ref\projet.dll
