@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# SQL
+*.bak
+*.mdf
+*.ldf
+
+# Documents
+*.docx
+*.pdf
+
+# OS files
+Thumbs.db
+.DS_Store
